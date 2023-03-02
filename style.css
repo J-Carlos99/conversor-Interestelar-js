@@ -1,0 +1,11 @@
+body {
+  color:white;
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://cdn.pixabay.com/photo/2018/11/20/14/16/spaceship-3827533_960_720.jpg");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
